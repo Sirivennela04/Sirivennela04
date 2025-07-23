@@ -38,12 +38,6 @@
 
 ## 📊 GitHub Stats
 
-![Sirivennela04's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirivennela04&show_icons=true&theme=radical)
-
----
-
-## ⚙️ Contribution Stats
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sirivennela04&theme=github_dark)
 ![Commits per day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sirivennela04&theme=github_dark)
 
