@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Sirivennela! 👋
 
 ## 👩‍💻 About Me
@@ -44,8 +43,6 @@
 ---
 
 ## ⚙️ Contribution Stats
-
-[![GitHub Contribution Stats](https://github-contribution-graph.vercel.app/api?username=Sirivennela04&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sirivennela04&theme=github_dark)
 ![Commits per day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sirivennela04&theme=github_dark)
