@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning **AI/ML**, and improving my **web development** and **problem-solving** skills.
 - 💡 I'm passionate about using technology for **social good**.
 - 🔍 I love exploring new tools, building cool side projects, and being part of tech communities.
-- ⚡ Fun fact: I’m the **Vice President** of my college’s literature club _‘Lits the Glitz’_ and also play in a college band called _‘6th Element’_ 🎹🎸🎤!
-
+  
 ---
 
 ## 🛠️ Languages and Tools I Use
